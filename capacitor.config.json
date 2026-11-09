@@ -1,0 +1,6 @@
+{
+  "appId": "ru.personal.tasks",
+  "appName": "Мои задачи",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
